@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Will 👋
 
-<!--
-**willrowe17/willrowe17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on web dev projects
+- 🌱 I’m currently learning Gatsby
 
-Here are some ideas to get you started:
+## Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+<br />
+
+## Languages and Tools
+<img align="left" alt="React" width="22px" src="https://avatars0.githubusercontent.com/u/6412038?s=200&v=4" />
+<img align="left" alt="Bootstrap" width="22px" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />
+<img align="left" alt="MySQL" width="22px" src="https://avatars2.githubusercontent.com/u/2452804?s=200&v=4" />
+<img align="left" alt="PHP" width="22px" src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4" />
+<img align="left" alt="Python" width="22px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" />
+<img align="left" alt="Javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
+[linkedin]: https://www.linkedin.com/in/william-j-rowe/
+[website]: http://willrowe.gq
+
+
