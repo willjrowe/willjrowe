@@ -23,7 +23,7 @@
 <img alt="MySQL" align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
-[![word](https://clash-royale-px92fewfe.vercel.app/api/test?name=swag)]](https://clash-royale-px92fewfe.vercel.app/api/test?name=swag)
+[!(https://clash-royale-px92fewfe.vercel.app/api/test?name=swag)](https://clash-royale-px92fewfe.vercel.app/api/test?name=swag)
 
 
 [linkedin]: https://www.linkedin.com/in/william-j-rowe/
