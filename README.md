@@ -22,9 +22,7 @@
 <img alt="AWS" align="left" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="MySQL" align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
-[![word](https://clash-royale-git-master.willjrowe.vercel.app/api/test?name=test)]]
-
-<img alt="boo" src="https://clash-royale-git-master.willjrowe.vercel.app/api/test?name=test">
+<img alt="boo" src="https://clash-royale-git-master.willjrowe.vercel.app/api/test?name=Will">
 
 [linkedin]: https://www.linkedin.com/in/william-j-rowe/
 [website]: http://willrowe.gq
