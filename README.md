@@ -24,6 +24,7 @@
 
 [![word](https://clash-royale-git-master.willjrowe.vercel.app/api/test?name=test)]]
 
+<img alt="boo" src="https://clash-royale-git-master.willjrowe.vercel.app/api/test?name=test">
 
 [linkedin]: https://www.linkedin.com/in/william-j-rowe/
 [website]: http://willrowe.gq
