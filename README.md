@@ -22,7 +22,7 @@
 <img alt="AWS" align="left" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="MySQL" align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
-[![Test](https://clash-royale-px92fewfe.vercel.app/api/test?name=swag)]
+(https://clash-royale-px92fewfe.vercel.app/api/test?name=swag)
 
 
 [linkedin]: https://www.linkedin.com/in/william-j-rowe/
