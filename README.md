@@ -23,7 +23,9 @@
 <img alt="MySQL" align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br />
-<img alt="boo" src="https://clash-royale.vercel.app/?username=FlipperTrain957">
+<br />
+<br />
+<img alt="boo" align="left" src="https://clash-royale.vercel.app/?username=FlipperTrain957">
 
 [linkedin]: https://www.linkedin.com/in/william-j-rowe/
 [website]: http://willrowe.gq
