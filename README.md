@@ -25,7 +25,7 @@
 <br />
 <br />
 <br />
-<img alt="boo" align="left" src="https://clash-royale.vercel.app/?username=FlipperTrain957">
+<img alt="boo" align="left" src="https://clash-royale.vercel.app/?username=Ninja">
 
 [linkedin]: https://www.linkedin.com/in/william-j-rowe/
 [website]: http://willrowe.gq
