@@ -5,7 +5,7 @@
 
 ## My Links
 
-[<img align="left" alt="LinkedIn" width="22px" src="(https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2" />][linkedin]
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
