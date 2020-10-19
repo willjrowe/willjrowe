@@ -1,7 +1,8 @@
 ### Hey there, I'm Will 👋
 
-- 🔭 I’m currently working on Web Dev projects
-- 🌱 I’m currently learning NextJS
+- 🔭 I’m working on Web Dev projects
+- 🌱 I’m learning NextJS
+- 🔍 I'm currently seeking opportunities for Summer 2021
 
 ## My Links
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
